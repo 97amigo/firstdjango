@@ -1,1 +1,1 @@
-Study Django project from oficial documentaion.
+Study Django project from official documentaion.
